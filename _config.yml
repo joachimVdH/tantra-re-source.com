@@ -23,10 +23,11 @@ twitter_username:
 github_username:  
 
 # Build settings
-markdown: kramdown
-theme: 
-gems:
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+theme: 
+markdown: kramdown
+destination: public
+exclude: ["Rakefile", "README.md", "public", "jekyll", "Gemfile", "Gemfile.lock", "Guardfile"]
+
+gems:
+  - jekyll-sitemap
