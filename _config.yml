@@ -27,7 +27,7 @@ github_username:
 theme: 
 markdown: kramdown
 destination: public
-exclude: ["Rakefile", "README.md", "public", "jekyll", "Gemfile", "Gemfile.lock", "Guardfile"]
+exclude: ["Rakefile", "README.md", "public", "jekyll", "Gemfile", "Gemfile.lock"]
 
-gems:
+plugins:
   - jekyll-sitemap
