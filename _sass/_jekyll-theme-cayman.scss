@@ -1,5 +1,5 @@
 @import "normalize";
-@import "rouge-github";
+//@import "rouge-github";
 @import "variables";
 
 @mixin large {
@@ -46,8 +46,9 @@ a {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  // background-color: rgba(255, 255, 255, 0.08);
+  background-color: rgba(0, 0, 0, 0.4);
+  border-color: rgba(255, 255, 255, 0.3);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -56,7 +57,7 @@ a {
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.1);
     border-color: rgba(255, 255, 255, 0.3);
   }
 
@@ -78,6 +79,7 @@ a {
     width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
+    
 
     + .btn {
       margin-top: 1rem;
@@ -90,45 +92,128 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: -webkit-gradient(linear, left top, left bottom, from($header-bg-color), to($header-bg-color-secondary));
-  background-image: -webkit-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
-  background-image: -moz-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
-  background-image: -o-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
-  background-image: -ms-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
-  background-image: linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
-  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='$header-bg-color', EndColorStr='$header-bg-color-secondary');
+  // background-image: -webkit-gradient(linear, left top, left bottom, from($header-bg-color), to($header-bg-color-secondary));
+  // background-image: -webkit-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
+  // background-image: -moz-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
+  // background-image: -o-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
+  // background-image: -ms-linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
+  // background-image: linear-gradient(top, $header-bg-color, $header-bg-color-secondary);
+  // filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='$header-bg-color', EndColorStr='$header-bg-color-secondary');
   
+  background-image: url('/assets/img/backgroundHeader.gif');
+  background-repeat: repeat-x repeat-y;
+  width: 100%;
+  height: 100%;
   
   @include large {
-    padding: 5rem 6rem;
+     // padding: 5rem 6rem;
+     padding-top: 5rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    // padding: 3rem 4rem;
+    padding-top: 3rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    // padding: 2rem 1rem;
+    padding-top: 2rem;
   }
 }
 
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
 
+.projectBlue{
+  color: #4771D7;
+}
+
+.flexContainer{
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+  margin-top: 0;
+  
+  border-top: 2px #CC0000 solid;
+  border-bottom: 2px #CC0000 solid;
+  background-color: rgba(0, 0, 0, 0.4);
+  
+  @include large {
+    height: 4.7rem;
+  }
+  
+  @include medium {
+    height: 4.7rem;
+  }
+  
+  @include small {
+    height: 3.625rem; //58px;
+  }
+
+}
+
+.flexLeft{
+  flex: 1 0 auto;
+  margin: 0;
+}
+
+.flexRight{
+  flex: 1 0 auto;
+  margin: 0;
+}
+
+.projectLogo{
+   width: auto;
+   margin-top: 0.4rem;
+    
+   @include large {
+     height: 4.4375rem;
+   }
+   @include medium {
+     height: 4.4375rem;
+   }
+   @include small {
+     height: 3.375rem; //54px;
+   }
+}
+
+.project-name {
+   //
+  margin-top: 0;
+ // margin-bottom: 0.1rem;
+  
+  
+  // text-align: right;
+  font-style: italic;
+  font-weight: 300;
+  
   @include large {
     font-size: 3.25rem;
+    // padding-right: 5rem;
+    height: 4.7rem;
   }
 
   @include medium {
     font-size: 2.25rem;
+    // padding-right: 5rem;
+    height: 4.7rem;
   }
 
   @include small {
     font-size: 1.75rem;
+    // padding-right: 2rem;
+    height: 3.625rem; //58px;
   }
   a{
     color: $header-heading-color;
+
+    &:hover {
+      text-decoration: none;
+    }
+
   }
 
 }
