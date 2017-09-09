@@ -10,29 +10,52 @@
 		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	</head>
 	<body>
-		<section class="page-header">
-			<a href="/"></a>
-				<span class="flexContainer">
-					<span class="flexLeft"><img src="/assets/img/LogoHeader.jpg" class="projectLogo"></span>
-					<span class="flexRight"><span class="project-name">RE-<span class="projectBlue">SOURCE</span></span></span> 
+		<section class="page-header" id="top">
+			
+				<span class="flexContainer top">
+					<span class="flexLeft"><a href="/"><img src="/assets/img/LogoHeader.jpg" class="projectLogo"></a></span>
+					<span class="flexRight"><span class="project-name">RE-<a href="/"><span class="projectBlue">SOURCE</span></a></span></span> 
 				</span>
+				
 				<h2 class="project-tagline">{{ site.tagline }}</h2> 
 				<!-- <a href="#" class="btn">voor jou</a> -->
 				<a href="tantra.html" class="btn">tantra</a>
 				<a href="energetische_behandeling.html" class="btn">energetische behandeling</a>
 				<a href="workshops.html" class="btn">workshops</a>
 				<a href="wie_ben_ik.html" class="btn">wie ben ik</a>
+				<a href="#contact" class="btn">contact</a>
 			
 		</section>
 
 		<section class="main-content">
 			{{ content }}
-
-			<footer class="site-footer">
-				made with &hearts; by <a href="http://4d.be">4d.be</a>
-			</footer>
 		</section>
-
+		
+		<footer class="site-footer" id="contact">
+			<span class="flexContainer">
+				
+				<span class="flexLeft righty">
+				
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20014.027333059814!2d4.376734300928989!3d51.16833524633098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f130ffb565cf%3A0x48d041899bc55f08!2sWilrijk%2C+2610+Antwerpen!5e0!3m2!1snl!2sbe!4v1504972046987" frameborder="0" style="border:0" allowfullscreen></iframe>
+				
+				</span>
+				<span class="flexLeft lefty">
+					Siegfried Présent<br>
+					Straat<br>
+					Wilrijk<br>
+					telefoonnr<br>
+				</span>
+				<span class="flexRight">
+					
+				<a href="https://www.naturopathica.be" target="_blank"><img src="/assets/img/naturopathica.png" id="naturo" alt="wettig erkende beroepsvereniging voor naturopaten Naturo De nieuwe naam voor Naturopathica . We laten het bestrijden van de páthos, het lijden los."></a><br><madeby>made with &hearts; by <a href="http://4d.be">4d.be</a></madeby>
+				
+				</span> 
+			</span>
+			
+			
+			
+		</footer>
+		
 		<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-103778908-1', 'auto'); ga('send', 'pageview');</script>
 	</body>
 </html>

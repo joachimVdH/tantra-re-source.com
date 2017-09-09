@@ -30,13 +30,15 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color:#e6e6e6; //$body-text-color;
+  
+  background-color:  $header-bg-color;
 }
 
 a {
-  color: $body-link-color;
-  text-decoration: none;
-
+  color: #ff8000; //$body-link-color;
+  //text-decoration: none;
+  text-decoration: underline;
   &:hover {
     text-decoration: underline;
   }
@@ -105,6 +107,8 @@ a {
   width: 100%;
   height: 100%;
   
+  border-bottom: solid 1px #CC0000;
+  
   @include large {
      // padding: 5rem 6rem;
      padding-top: 5rem;
@@ -126,6 +130,14 @@ a {
   color: #4771D7;
 }
 
+.top{
+  margin-top: 0;
+  
+  border-top: 2px #CC0000 solid;
+  border-bottom: 2px #CC0000 solid;
+  background-color: rgba(0, 0, 0, 0.4);  
+}
+
 .flexContainer{
   display: flex;
   display: -webkit-flex;
@@ -135,11 +147,6 @@ a {
   align-items: center;
   align-content: center;
 
-  margin-top: 0;
-  
-  border-top: 2px #CC0000 solid;
-  border-bottom: 2px #CC0000 solid;
-  background-color: rgba(0, 0, 0, 0.4);
   
   @include large {
     height: 4.7rem;
@@ -209,7 +216,7 @@ a {
   }
   a{
     color: $header-heading-color;
-
+    text-decoration: none;
     &:hover {
       text-decoration: none;
     }
@@ -273,7 +280,9 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: $section-headings-color;
+  
+    color: #e6e6e6; //$section-headings-color;
+    text-shadow: 0px 0px 6px #FF0000 ;
   }
 
   p {
@@ -414,9 +423,16 @@ a {
 }
 
 .site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px $hr-border-color;
+  background-image: url('/assets/img/backgroundHeader.gif');
+  background-repeat: repeat-x repeat-y;
+  width: 100%;
+  height: 100%;
+
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  // margin-top: 1rem;
+  border-top: solid 1px #CC0000; //$hr-border-color;
+  text-align: center;
 
   @include large {
     font-size: 1rem;
@@ -438,4 +454,33 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+.lefty{
+  text-align: left;
+}
+.righty{
+  text-align: right;
+}
+iframe{
+  height: 6rem;
+  padding-right: 1rem;
+}
+
+#naturo {
+  height: 4rem;
+}
+madeby{
+  @include large {
+    font-size: 0.7rem;
+  }
+  
+  @include medium {
+    font-size: 0.7rem;
+  }
+  
+  @include small {
+    font-size: 0.5rem;
+  }
+
 }
