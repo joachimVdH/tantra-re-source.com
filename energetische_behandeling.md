@@ -58,7 +58,7 @@ Een ontspanningsmassage kan zowel lichamelijk als geestelijk werken voor het beh
 
 <h1 id="EnergetischeZuivering">Energetische Zuivering</h1>
 
-Een energetische zuivering kan worden gedaan om verscheidene redenen. Vaak voelen we energieën in huis die vreemd zijn, of zijn er objecten die een zware energie meedragen. Via een energetische zuivering wordt er plaats gegeven aan het nieuwe doordat de energie op een bepaalde plaats of van een voorwerp “gereset” wordt. Oude zaken kunnen dan losgelaten worden en plaats maken voor nieuwe. Hoewel het ook mogelijk is op bedrijfsniveau, is dit niet bij de activiteiten van Re-Source inbegrepen. Daarvoor kan u bij een collega <a href="http://www.agoracatharsis.be" target="_blank">Koenraad Bouuaert</a> terecht. Zuiveringen worden op maat aangeboden en in samenspraak beslist. Indien dit niet onder de mogelijkheden van Re-Source valt kan u eventueel ten rade bij deze collega. 
+Een energetische zuivering kan worden gedaan om verscheidene redenen. Vaak voelen we energieën in huis die vreemd zijn, of zijn er objecten die een zware energie meedragen. Via een energetische zuivering wordt er plaats gegeven aan het nieuwe doordat de energie op een bepaalde plaats of van een voorwerp “gereset” wordt. Oude zaken kunnen dan losgelaten worden en plaats maken voor nieuwe. <!-- Hoewel het ook mogelijk is op bedrijfsniveau, is dit niet bij de activiteiten van Re-Source inbegrepen. Daarvoor kan u bij een collega <a href="http://www.agoracatharsis.be" target="_blank">Koenraad Bouuaert</a> terecht. Zuiveringen worden op maat aangeboden en in samenspraak beslist. Indien dit niet onder de mogelijkheden van Re-Source valt kan u eventueel ten rade bij deze collega.  -->
 
 
    
