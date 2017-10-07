@@ -432,6 +432,7 @@ a {
   padding-bottom: 1rem;
   // margin-top: 1rem;
   border-top: solid 1px #CC0000; //$hr-border-color;
+  border-bottom: solid 1px #CC0000;
   text-align: center;
 
   @include large {
@@ -468,9 +469,11 @@ iframe{
 }
 
 #naturo {
-  height: 4rem;
+  height: 6rem;
 }
-madeby{
+.madeby{
+  text-align: center;
+  width: 100%;
   @include large {
     font-size: 0.7rem;
   }
