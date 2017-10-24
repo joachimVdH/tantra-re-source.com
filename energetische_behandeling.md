@@ -11,7 +11,7 @@ De mogelijke methodes zijn:
 * <a href="#PranaActivaties">Prana activaties</a>  
 * <a href="#ChakraAuraBalancing">Chakra- en aura Balancing </a>  
 * <a href="#DrukpuntMassage">Drukpunt massage </a> 
-* <a href="#KristalHealing">Kristal Healing </a>
+* <a href="#KristalBehandeling">Kristal behandeling </a>
 * <a href="#ZweedseMassage">Zweedse (sport) massage</a>
 * <a href="#EnergetischeZuivering">Energetische Zuivering</a>
 
@@ -24,7 +24,7 @@ Door het activeren van prana worden energie banen gezuiverd en kan je leren conn
 Prana activaties zijn mogelijk op verschillende wijzen:
 
 * Gebaseerd op Tibetaanse tantra massage en Japanse drukpunt massage
-* Kristal healing aangepast op prana activatie als thema
+* Kristal behandeling aangepast op prana activatie als thema
 * Ademwerk, met of zonder aanvullende (drukpunt) massage
 * Overige niet door Re-Source aangeboden methodes (vraag vrijblijvend meer info – links?)
 
@@ -46,9 +46,9 @@ Aura readings worden niet gedaan bij Re-Source. Daarvoor kan u bij (link Ina) te
 In een drukpunt massage wordt specifieker op meridianen gewerkt dan bij andere vormen van massage. Hoewel in elke massage vorm wel op meridianen wordt gewerkt, volgen we in een drukpunt massage de hoofdmeridiaan systemen volgens Oosterse vorm. Via batterij punten en meridiaan punten, worden volgens de Oosterse leer  via drukpunt massage de organen gevoed en de systemen onderling gebalanceerd waardoor onze immuniteit verhoogd wordt en we zelf makkelijker terug recupereren.      
 
 
-<h1 id="KristalHealing"> Kristal Healing </h1>
+<h1 id="KristalBehandeling"> Kristal behandeling </h1>
 
-Een Kristal healing kan deels worden vergeleken met overige methoden, zoals acupressuur, chakra balancing of aura balancing. Ze is evenwel meer intens gezien de opgewekte energie via laser kristallen gezuiverd en geconcentreerd wordt aangeboden. Hierdoor kan op speficieke punten véél dieper in het energetisch systeem worden gewerkt. Ook bij een kristal healing kan worden gefocussed op specifieke meridianen, chakra’s en het aura. Een kristal healing kan worden gecombineerd met overige vormen van massage. 
+Een Kristal behandeling kan deels worden vergeleken met overige methoden, zoals acupressuur, chakra balancing of aura balancing. Ze is evenwel meer intens gezien de opgewekte energie via laser kristallen gezuiverd en geconcentreerd wordt aangeboden. Hierdoor kan op speficieke punten véél dieper in het energetisch systeem worden gewerkt. Ook bij een kristal behandeling kan worden gefocussed op specifieke meridianen, chakra’s en het aura. Een kristal behandeling kan worden gecombineerd met overige vormen van massage. 
 
 
 <h1 id="ZweedseMassage"> Zweedse (sport) massage</h1>
@@ -58,7 +58,7 @@ Een ontspanningsmassage kan zowel lichamelijk als geestelijk werken voor het beh
 
 <h1 id="EnergetischeZuivering">Energetische Zuivering</h1>
 
-Een energetische zuivering kan worden gedaan om verscheidene redenen. Vaak voelen we energieën in huis die vreemd zijn, of zijn er objecten die een zware energie meedragen. Via een energetische zuivering wordt er plaats gegeven aan het nieuwe doordat de energie op een bepaalde plaats of van een voorwerp “gereset” wordt. Oude zaken kunnen dan losgelaten worden en plaats maken voor nieuwe. <!-- Hoewel het ook mogelijk is op bedrijfsniveau, is dit niet bij de activiteiten van Re-Source inbegrepen. Daarvoor kan u bij een collega <a href="http://www.agoracatharsis.be" target="_blank">Koenraad Bouuaert</a> terecht. Zuiveringen worden op maat aangeboden en in samenspraak beslist. Indien dit niet onder de mogelijkheden van Re-Source valt kan u eventueel ten rade bij deze collega.  -->
+Een energetische zuivering kan worden gedaan om verscheidene redenen. Vaak voelen we energieën in huis die vreemd zijn, of zijn er objecten die een zware energie meedragen. Via een energetische zuivering wordt er plaats gegeven aan het nieuwe doordat de energie op een bepaalde plaats of van een voorwerp “gereset” wordt. Oude zaken kunnen dan losgelaten worden en plaats maken voor nieuwe. 
 
 
    
