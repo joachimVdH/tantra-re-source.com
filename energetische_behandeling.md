@@ -38,7 +38,7 @@ Je aura is een elektromagnetisch veld dat wordt gevormd door de energieën die i
 
 In een chakra balancing, wordt specifieker op de chakra’s gewerkt. In feite bevat je lichaam oneindig veel chakra’s, maar er zijn volgens de oude systemen een aantal mogelijke specifiekere plaatsen waar de “hoofdchakra’s” zich bevinden. Ze vormen in hun natuurlijke staat een soort van draaiende schijven en als ze “op de juiste snelheid” draaien kan de energie er vlot passeren. In een chakra balancing wordt aandacht gegeven aan de voor u belangrijke thema’s en hun effect op de specifieke chakra’s die daardoor beïnvloedt worden. 
 
-Aura readings worden niet gedaan bij Re-Source. Daarvoor kan u bij (link Ina) terecht. 
+<!-- Aura readings worden niet gedaan bij Re-Source. Daarvoor kan u bij (link Ina) terecht.  -->
 
 
 <h1 id="DrukpuntMassage"> Drukpunt massage </h1>
@@ -60,5 +60,3 @@ Een ontspanningsmassage kan zowel lichamelijk als geestelijk werken voor het beh
 
 Een energetische zuivering kan worden gedaan om verscheidene redenen. Vaak voelen we energieën in huis die vreemd zijn, of zijn er objecten die een zware energie meedragen. Via een energetische zuivering wordt er plaats gegeven aan het nieuwe doordat de energie op een bepaalde plaats of van een voorwerp “gereset” wordt. Oude zaken kunnen dan losgelaten worden en plaats maken voor nieuwe. 
 
-
-   
