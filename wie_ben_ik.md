@@ -7,8 +7,7 @@ title: Wie ben ik
 ---
 # Wie ben ik
 
-
-__Siegfried Présent (39) is een tantra instructeur en (tantra wellness) masseur.__ 
+__Siegfried Présent (40) is een tantra instructeur en (tantra wellness) masseur.__ 
 
 
 Hij groeide op in een familie die erg aangetrokken was tot persoonlijke ontwikkeling en spiritualiteit. In deze omgeving werden zelf ontwikkeling en groei sterk aangemoedigd. Door het feit dat zijn vader en moeder altijd waren gepassioneerd door Oosterse filosofieën, werd zijn vader tai chi leraar ( http://eddypresent.be ) en zijn moeder een dagelijks beoefenaar van actieve meditatie, yoga, ademwerk, enz. Het is dan ook niet vreemd dat hij hierdoor zelf verder op zoek ging. 
@@ -25,5 +24,3 @@ Mogelijkheden:
 * Management coaching
 * Energetische zuiveringen
 * Lesgeven in tantra of tantrische massage
-
-
