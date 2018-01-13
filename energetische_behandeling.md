@@ -26,7 +26,7 @@ Prana activaties zijn mogelijk op verschillende wijzen:
 * Gebaseerd op Tibetaanse tantra massage en Japanse drukpunt massage
 * Kristal behandeling aangepast op prana activatie als thema
 * Ademwerk, met of zonder aanvullende (drukpunt) massage
-* Overige niet door Re-Source aangeboden methodes (vraag vrijblijvend meer info – links?)
+* Overige niet door Re-Source aangeboden methodes (vraag vrijblijvend meer info)
 
 
 In feite wordt bij alle aangeboden massage vormen prana opgwekt. In een prana activatie wordt evenwel veel actiever en dieper gewerkt aan het bewust wakker maken van je energie terwijl bij overige massage vormen de energie gewoon zijn eigen weg mag volgen. Dit uit zich in een langer durende en veel intensere massage tov de overige vormen. 
@@ -37,9 +37,6 @@ In feite wordt bij alle aangeboden massage vormen prana opgwekt. In een prana ac
 Je aura is een elektromagnetisch veld dat wordt gevormd door de energieën die in je lichaam stromen. Dit veld kan bepaalde verstoringen krijgen door andere elektromagnetische invloeden zoals wat we eten, drinken, stress, emoties, electriciteit, gsm’s, en andere zaken. In een aura balancing of chakra balancing worden je velden opgeladen, zodat je aura terug zijn meer natuurlijke staat kan aannemen en er van binnenuit weer energie stroomt om je eigen helingsproces te gaan ondersteunen. 
 
 In een chakra balancing, wordt specifieker op de chakra’s gewerkt. In feite bevat je lichaam oneindig veel chakra’s, maar er zijn volgens de oude systemen een aantal mogelijke specifiekere plaatsen waar de “hoofdchakra’s” zich bevinden. Ze vormen in hun natuurlijke staat een soort van draaiende schijven en als ze “op de juiste snelheid” draaien kan de energie er vlot passeren. In een chakra balancing wordt aandacht gegeven aan de voor u belangrijke thema’s en hun effect op de specifieke chakra’s die daardoor beïnvloedt worden. 
-
-<!-- Aura readings worden niet gedaan bij Re-Source. Daarvoor kan u bij (link Ina) terecht.  -->
-
 
 <h1 id="DrukpuntMassage"> Drukpunt massage </h1>
 
@@ -59,4 +56,3 @@ Een ontspanningsmassage kan zowel lichamelijk als geestelijk werken voor het beh
 <h1 id="EnergetischeZuivering">Energetische Zuivering</h1>
 
 Een energetische zuivering kan worden gedaan om verscheidene redenen. Vaak voelen we energieën in huis die vreemd zijn, of zijn er objecten die een zware energie meedragen. Via een energetische zuivering wordt er plaats gegeven aan het nieuwe doordat de energie op een bepaalde plaats of van een voorwerp “gereset” wordt. Oude zaken kunnen dan losgelaten worden en plaats maken voor nieuwe. 
-
