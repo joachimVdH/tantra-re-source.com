@@ -7,4 +7,4 @@ title: Workshops
 ---
 # Workshops
 
-In opbouw &#9786;
+## Tantra-Yoga Voor beginners Deel I & Deel II
