@@ -17,9 +17,8 @@ per begonnen uur binnen een sessie
 'complementaire hulpverlening' (CAM)
 
 ---
-geldig vanaf 01/01/2018 tot 31/12/2018  
 (*) Deze prijzen gelden voor een particulier. Overige prijzen op verzoek.  
-Deze prijzen vallen binnen de prijsvork van 2017, vastgelegd door de beroepsvereniging Naturopathica op de algemene vergadering van 15 februari 2017.  
+Deze prijzen vallen binnen de prijsvork vastgelegd door de beroepsvereniging Naturopathica op de algemene vergadering van 15 februari 2017.  
 
 ---
 Sluitingsdag : de zondag
