@@ -24,7 +24,7 @@ De diepste intimiteit (ook die met onszelf) is diegene die ontstaat als alle ang
 
 ### Vraag voor uw bedrijf een gratis demo. 
 
-#### Een Adem Tantra Kriya Yoga demo sessie van +-2 uur kan gratis worden gegeven om u te tonen hoe dit werkt vooraleer u beslist of u coaching volgens deze methodiek interessant vindt.
+#### Een Ancient Tantra Kriya Yoga demo sessie van +-2 uur kan gratis worden gegeven om u te tonen hoe dit werkt vooraleer u beslist of u coaching volgens deze methodiek interessant vindt.
 
 ...ofwel leiderschap vanuit connectie met het hart. Managements coaching heeft als doel het groeiproces tussen de manager(s), diens medewerkers en “het bedrijf” te begeleiden en zo toe te laten te leiden vanuit liefde en kracht. Met tools als verbindende communicatie, tantrische yoga, tantrische communicatie, meditatie, cosmic orbit werk en ademwerk kan de aanzet gegeven worden tot een (meer) harts gecenterde aanpak. Op deze wijze kan het bedrijf meer bewust in de samenleving gaan werken en connecteren met de werkelijke noden van zowel de medewerkers als de maatschappij. 
 
