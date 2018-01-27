@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Prijzen
-lang: nl
+lang: en
 ref: prices
 ---
-# Prijzen
+# Prices
 
 * Energetische Massage: 65,00 € (*)
 * Tantrische Massage: 80,00 € (*)

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Coaching
-lang: nl
+lang: en
 ref: coaching
 ---
-# Coaching
+# Coaching EN
 
 
 * <a href="#IntimiteitsRelationeleCoaching">Intimiteits- en relationele coaching</a>  

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Workshops
-lang: nl
+lang: en
 ref: workshops
 ---
-# Workshops
+# Workshops EN
 
 ## Tantra-Yoga Voor beginners Deel I & Deel II
 

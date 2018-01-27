@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Tantra-Re-Source
-lang: nl
+lang: en
 ref: welkom
 ---
-# Welkom
+# Welcome EN
 
 
 Thuiskomen bij jezelf. Energie door je lijf voelen razen, enthousiast in het leven staand als een jonge ree of stier. Geactiveerde prana. Zaken manifesteren die je altijd al droomde. Angsten loslaten. Groeien. Goede seks of intieme(re) relatie(s). Gelukkig zijn met “wat is”.  Tegenslagen of emoties leren gebruiken als tool tot transformatie. Het kan allemaal met Re-Source.

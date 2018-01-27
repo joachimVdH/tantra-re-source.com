@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "nl-BE" }}">
+<html lang="{{ page.lang }}">
 	<head>
 		<meta charset="UTF-8">
 		<title>{{ page.title | default: site.title }} | {{ site.title | default: '' }}</title>
 		<meta name="description" content="{{ page.description | default: site.description }}"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<!-- <meta name="theme-color" content="#157878"> -->
+		
+		<!-- links to all different languages of this page -->
+		{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}<link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+		{% endfor %}
+
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	</head>
@@ -13,20 +17,26 @@
 		<section class="page-header" id="top">
 			
 				<span class="flexContainer top">
-					<span class="flexLeft"><a href="/"><img src="/assets/img/LogoHeader.jpg" class="projectLogo"></a></span>
-					<span class="flexRight"><span class="project-name">RE-<a href="/"><span class="projectBlue">SOURCE</span></a></span></span> 
+					<span class="flexLeft">{% if page.lang == 'en' %}<a href="/index.en.html">{% else %}<a href="/">{% endif %}<img src="/assets/img/LogoHeader.jpg" class="projectLogo"></a></span>
+					<span class="flexRight"><span class="project-name">RE-{% if page.lang == 'en' %}<a href="/index.en.html">{% else %}<a href="/">{% endif %}<span class="projectBlue">SOURCE</span></a></span></span> 
 				</span>
 				
 				<h2 class="project-tagline">{{ site.tagline }}</h2> 
-				<!-- <a href="#" class="btn">voor jou</a> -->
-				<a href="tantra.html" class="btn">tantra</a>
-				<a href="energetische_behandeling.html" class="btn">energetische behandeling</a>
-				<a href="coaching.html" class="btn">coaching</a>
-				<a href="workshops.html" class="btn">workshops</a>
-				<a href="wie_ben_ik.html" class="btn">wie ben ik</a>
-				<a href="prijzen.html" class="btn">prijzen</a>
+				
+				{% for menu in site.t[page.lang] %}<a href="{{ menu[1].url }}" class="btn">{{ menu[1].name }}</a>
+				{% endfor %}
 				<a href="#contact" class="btn">contact</a>
 			
+				<!-- Language selector -->
+				{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+				{% for page in pages %}<a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+				{% endfor %}
+				
+				{% if page.lang == 'en' %}
+				<!-- nederlandse vlag -->
+				{% else %}
+				<!-- engelse vlag -->
+				{% endif %}
 		</section>
 
 		<section class="main-content">
@@ -59,7 +69,9 @@
 			</span>
 			
 		</footer>
-		<section class="madeby">made with &hearts; by <a href="https://www.4d.be">4d.be</a> and securely hosted on <a href="https://www.netlify.com">Netlify</a> - <a href="disclaimer.html">lees de disclaimer</a></section>
+		<section class="madeby">made with &hearts; by <a href="https://www.4d.be">4d.be</a> and securely hosted on <a href="https://www.netlify.com">Netlify</a> - 
+		{% if page.lang == 'en' %}<a href="disclaimer.en.html">read the disclaimer</a>{% else %}<a href="disclaimer.html">lees de disclaimer</a>{% endif %}
+		</section>
 		<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-103778908-1', 'auto'); ga('send', 'pageview');</script>
 	</body>
 </html>

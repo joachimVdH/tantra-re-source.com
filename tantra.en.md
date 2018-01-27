@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Tantra
-lang: nl
+lang: en
 ref: tantra
 ---
 
-# Tantra is “de liefde bedrijven” 
+# Tantra is “de liefde bedrijven” EN
 
 
 ... in de ruimste zin van het woord. Niet enkel de fysieke vorm van de liefde bedrijven. Hoewel tantra vaak wordt geassocieerd met seks, is dit slechts een -niet onbelangrijk- klein deelaspect van tantra. Men zou kunnen stellen dat tantra de liefde bedrijven met jezelf, anderen en het leven is, zei het in de originele niet-fysieke vorm.

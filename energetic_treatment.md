@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Energetische behandeling
-lang: nl
+lang: en
 ref: energetic
 ---
-# Energetische behandeling 
+# Energetic treatment 
 
 In een energetische behandeling zal prana opgewekt worden om het door u gewenste thema te benaderen met een besproken behandeling op maat. Via de opgewekte prana kunnen we op verscheidene manieren gaan werken. 
 
