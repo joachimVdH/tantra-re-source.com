@@ -16,7 +16,7 @@ ref: coaching
 
 Intimiteits- of relationele coaching heeft als doel het groeiproces tussen koppels te begeleiden en zo toe te laten (nog) meer liefde en bewustzijn in de connectie te brengen. Met tools als verbindende communicatie, tantrische yoga, tantrische communicatie, meditatie, cosmic orbit werk en ademwerk kan de aanzet gegeven worden tot een grotere intimiteit. Verder is het mogelijk een verdieping van de seksualiteit te verwezenlijken met de door Re-Source aangeboden oefeningen. 
 
-De diepste intimiteit (ook die met onszelf) is diegene die ontstaat als alle angsten zijn weggevallen om ons volledig te laten zien aan de ander in volle kwestbaarheid, en waarbij we de space kunnen houden naar elkaar toe voor dit proces. Het betekent dat we anders leren omgaan met “wat is” zodat de hindernissen veranderen in tools tot transformatie. Vanuit volle acceptatie, in observatie van de eigen emoties maar zonder ze te volgen, kan liefde vloeien en de tool worden tot transformatie. 
+De diepste intimiteit (ook die met onszelf) is diegene die ontstaat als alle angsten zijn weggevallen om ons volledig te laten zien aan de ander in volle kwetsbaarheid, en waarbij we de space kunnen houden naar elkaar toe voor dit proces. Het betekent dat we anders leren omgaan met “wat is” zodat de hindernissen veranderen in tools tot transformatie. Vanuit volle acceptatie, in observatie van de eigen emoties maar zonder ze te volgen, kan liefde vloeien en de tool worden tot transformatie. 
 
 
 <h1 id="ManagementBedrijfsCoaching"> Management- en bedrijfs coaching </h1>
@@ -25,7 +25,7 @@ De diepste intimiteit (ook die met onszelf) is diegene die ontstaat als alle ang
 
 #### Een Ancient Tantra Kriya Yoga demo sessie van +-2 uur kan gratis worden gegeven om u te tonen hoe dit werkt vooraleer u beslist of u coaching volgens deze methodiek interessant vindt.
 
-...ofwel leiderschap vanuit connectie met het hart. Managements coaching heeft als doel het groeiproces tussen de manager(s), diens medewerkers en “het bedrijf” te begeleiden en zo toe te laten te leiden vanuit liefde en kracht. Met tools als verbindende communicatie, tantrische yoga, tantrische communicatie, meditatie, cosmic orbit werk en ademwerk kan de aanzet gegeven worden tot een (meer) harts gecenterde aanpak. Op deze wijze kan het bedrijf meer bewust in de samenleving gaan werken en connecteren met de werkelijke noden van zowel de medewerkers als de maatschappij. 
+In deze vorm van coaching streven we naar leiderschap vanuit de connectie met het hart. Managements coaching heeft als doel het groeiproces tussen de manager(s), diens medewerkers en “het bedrijf” te begeleiden en zo toe te laten te leiden vanuit liefde en kracht. Met tools als verbindende communicatie, tantrische yoga, tantrische communicatie, meditatie, cosmic orbit werk en ademwerk kan de aanzet gegeven worden tot een (meer) harts gecenterde aanpak. Op deze wijze kan het bedrijf meer bewust in de samenleving gaan werken en connecteren met de werkelijke noden van zowel de medewerkers als de maatschappij. 
 
 Ademwerk en tantrische yoga dragen bij aan algeheel welzijn en centering, en kunnen een zeer krachtige tool zijn om voor belangrijke beslissingen aan te wenden om het systeem te zuiveren van stress en beperkingen van de mind. Doordat tantrische yoga technieken bevat die in staat zijn op slechts enkele minuten de gedachten stroom te kalmeren en emoties te centeren, is het een unieke Re-Source om uit te putten gezien het tijdskader waarin management vaak dient te gebeuren.
 

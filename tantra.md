@@ -8,19 +8,17 @@ ref: tantra
 # Tantra is “de liefde bedrijven” 
 
 
-... in de ruimste zin van het woord. Niet enkel de fysieke vorm van de liefde bedrijven. Hoewel tantra vaak wordt geassocieerd met seks, is dit slechts een -niet onbelangrijk- klein deelaspect van tantra. Men zou kunnen stellen dat tantra de liefde bedrijven met jezelf, anderen en het leven is, zei het in de originele niet-fysieke vorm.
-
-Stromingen als Taoistische tantra, Kum Nye (Tibetaanse tantra), Ancient Tantra Kriya Yoga, Kaula, en vele andere stromingen hebben technieken om de spirituele "motor", die we in ons hebben, (terug) aan te zetten. Hierdoor ontstaat connectie met onze ziel, andere zielen en het universum.  Het wordt door Meesters ook wel eens "online" genoemd, waardoor we de informatie die we nodig  hebben kunnen "downloaden" liefde kunnen vermenigvuldigen in onszelf, onze energie centra opladen en onze seksualiteit energetisch en fysiek herstellen of kunnen verdiepen.
-
+... in de ruimste zin van het woord. Niet enkel de fysieke vorm van de liefde bedrijven. Hoewel tantra vaak wordt geassocieerd met seks, is dit slechts een -niet onbelangrijk- klein deelaspect van tantra. Men zou kunnen stellen dat tantra de liefde bedrijven met jezelf, anderen en het leven is, zei het in de originele niet-fysieke vorm.  
+  
+Stromingen als Taoistische tantra, Kum Nye (Tibetaanse tantra), Ancient Tantra Kriya Yoga, Kaula, en vele andere stromingen hebben technieken om de spirituele "motor" die we in ons hebben, (terug) aan te zetten. Hierdoor ontstaat connectie met onze ziel, andere zielen en het universum.  Het wordt door Meesters ook wel eens "online" genoemd, waardoor we de informatie die we nodig  hebben kunnen "downloaden", liefde kunnen vermenigvuldigen in onszelf, onze energie centra opladen en onze seksualiteit energetisch en fysiek herstellen of verdiepen.
 
 ### Er zijn enorm veel opvattingen 
 
-...over wat tantra werkelijk betekent en waartoe het diende, en wat wel of niet juist is. Het is evenwel moeilijk om te beweren dat ons bekend is wat tantra werkelijk is. De realiteit is dat vele manuscripten van vandaag en hoe we ze vandaag toepassen, reeds interpretaties zijn van wat ooit bedoeld is. Verder zijn veruit de grootste hoeveelheid van de oude manuscripten verloren gegaan. Pas zodra het idee van wat juist is en wat niet vanuit het “zelf” wegvalt, zijn we werkelijk in staat te bevatten waarom we het deden. In werkelijkheid doorlopen we allemaal fasen en bij elke fase staan we anders in wat het voor ons betekent. 
+...over wat tantra werkelijk betekent en waartoe het diende, en wat wel of niet juist is. Het is evenwel moeilijk om te beweren dat ons bekend is wat tantra werkelijk is. De realiteit is dat vele manuscripten van vandaag en hoe we ze vandaag toepassen, reeds interpretaties zijn van wat ooit bedoeld is. Verder zijn veruit de grootste hoeveelheid van de oude manuscripten verloren gegaan. Pas zodra het idee van wat juist is en wat niet vanuit het “zelf” wegvalt, zijn we werkelijk in staat te bevatten waarom we het deden. In werkelijkheid doorlopen we allemaal fasen en bij elke fase staan we anders in wat het voor ons betekent.
 
+### Hoe vind je je weg dan 
 
-### Hoe vind  je je weg dan 
-
-...in tantra? Het antwoord daarin is dat ieder dat voor zichzelf kan en mag ontdekken. Ongeacht de intentie waarmee je begint aan dit pad, wordt het vanzelf meer zodra je daar klaar voor bent. Het is prima dat je tantrische technieken gebruikt gewoon om betere seks in je eigen relatie(s) te ervaren, maar als je het echt wil kan het veel meer worden dan dat. 
+...in tantra? Het antwoord daarin is dat ieder dat voor zichzelf kan en mag ontdekken. Ongeacht de intentie waarmee je begint aan dit pad, wordt het vanzelf meer zodra je daar klaar voor bent. Het is prima dat je tantrische technieken gebruikt gewoon om betere seks in je eigen relatie(s) te ervaren, maar als je het echt wil kan het veel meer worden dan dat.  
 
 
 ### Het is belangrijk 
@@ -47,7 +45,7 @@ Goed! U bent nieuwsgierig naar een tantrische massage? Er zijn een aantal zaken 
 
 ...om te zien of dit inderdaad een goede werkwijze kan zijn. Er zal worden gepraat over uw grenzen, wensen, motivatie, contekst, medisch verleden en waaraan u graag wil werken. Afhankelijk uw behoeften en de contekst, zal in samenspraak beslist worden of dit inderdaad een constructieve werkwijze is. 
 
-Tantrische massages worden enkel toegestaan ingeval u al klant bent en wij samen hebben kunnen bekijken of het een verantwoorde werkzijze is. Hierop worden geen uitzonderingen gemaakt.
+Tantrische massages worden enkel toegestaan ingeval u al klant bent en wij samen hebben kunnen bekijken of het een verantwoorde werkwijze is. Hierop worden geen uitzonderingen gemaakt.
 
 
 ### Er kan worden gewerkt met of zonder seksuele energie
@@ -95,5 +93,5 @@ Om aan te leren seksuele energie anders te gebruiken, is een prana activatie bel
 
 Er zullen door re-source tantra zeer gevarieerde lessen (meditatie, sacred sexuality, ritualisme, pranayama, tantric sexuality, ...) en lessen in tantrische massage gegeven worden alsook workshops worden georganiseerd. Er zijn meerdere thema’s mogelijk, van koppelwerk (emotioneel, tantrische seksualiteit), seksueel educatief, meditatie, tantrische yoga voor koppels of voor groepen tot zeer spiritueel en introspectief. Het aanbod kan variëren naargelang de behoeftes van het publiek. Speciale lessen kunnen aangevraagd worden, indien er voldoende mensen zijn die over een bepaald thema les willen, zal hier een les voor worden georganiseerd.  
 
-Bij lessen in tantrische yoga, tantrische massage of tantrische seksualiteit zal de lesgever altijd een vooraf besproken eigen partner hebben waarmee gewerkt wordt. Op deze wijze ontstaat geen situatie waarin mensen zich onveilig voelen en geremd zijn om zich te ontplooien met of zonder hun zelfgekozen partner. 
+Bij lessen in tantrische yoga, tantrische massage of tantrische seksualiteit zal de lesgever voor expliciete oefeningen een vooraf besproken eigen partner hebben waarmee gewerkt wordt. Op deze wijze ontstaat geen situatie waarin mensen zich onveilig voelen en geremd zijn om zich te ontplooien met of zonder hun zelfgekozen partner.  
    

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Prijzen
+title: Pricing
 lang: en
 ref: prices
 ---
-# Prices
+# Pricing
 
-* Energetische Massage: 65,00 € (*)
-* Tantrische Massage: 80,00 € (*)
-* Zweedse massage: 65,00 € (*)
-* Gesprekstechniek: 50,00 € (*)
-* Sessie ademwerk: 55,00 € (*)
+* Energetic massage: 65,00 € (*)
+* Tantric Massage: 80,00 € (*)
+* Swedish massage: 65,00 € (*)
+* Verbal therapy: 50,00 € (*)
+* Breathe work session: 55,00 € (*)
 
-per begonnen uur binnen een sessie  
-'complementaire hulpverlening' (CAM)
+
+For each hour started within a session of complementary assistance (CAM)
 
 ---
-(*) Deze prijzen gelden voor een particulier. Overige prijzen op verzoek.  
-Deze prijzen vallen binnen de prijsvork vastgelegd door de beroepsvereniging Naturopathica op de algemene vergadering van 15 februari 2017.  
+(*) These prices are valid for privates. Pricing for companies on request.
+These prices fall within the scope of pricing determined by the occupational federation Naturopathica on the general meeting of 15 February 2017.   

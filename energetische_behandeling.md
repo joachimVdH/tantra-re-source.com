@@ -31,12 +31,12 @@ Prana activaties zijn mogelijk op verschillende wijzen:
 * Overige niet door Re-Source aangeboden methodes (vraag vrijblijvend meer info)
 
 
-In feite wordt bij alle aangeboden massage vormen prana opgwekt. In een prana activatie wordt evenwel veel actiever en dieper gewerkt aan het bewust wakker maken van je energie terwijl bij overige massage vormen de energie gewoon zijn eigen weg mag volgen. Dit uit zich in een langer durende en veel intensere massage tov de overige vormen. 
+In feite wordt bij alle aangeboden massage vormen prana opgewekt. In een prana activatie wordt evenwel veel actiever en dieper gewerkt aan het bewust wakker maken van je energie terwijl bij overige massage vormen de energie gewoon zijn eigen weg mag volgen. Dit uit zich in een langer durende en veel intensere massage tov de overige vormen. 
 
 
 <h1 id="ChakraAuraBalancing"> Chakra- en aura Balancing </h1>
 
-Je aura is een elektromagnetisch veld dat wordt gevormd door de energieën die in je lichaam stromen. Dit veld kan bepaalde verstoringen krijgen door andere elektromagnetische invloeden zoals wat we eten, drinken, stress, emoties, electriciteit, gsm’s, en andere zaken. In een aura balancing of chakra balancing worden je velden opgeladen, zodat je aura terug zijn meer natuurlijke staat kan aannemen en er van binnenuit weer energie stroomt om je eigen helingsproces te gaan ondersteunen. 
+Je aura is een elektromagnetisch veld dat wordt gevormd door de energieën die in je lichaam stromen. Dit veld kan bepaalde verstoringen krijgen door andere elektromagnetische invloeden zoals wat we eten, drinken, stress, emoties, elektriciteit, gsm’s, en andere zaken. In een aura balancing of chakra balancing worden je velden opgeladen, zodat je aura terug zijn meer natuurlijke staat kan aannemen en er van binnenuit weer energie stroomt om je eigen helingsproces te gaan ondersteunen. 
 
 In een chakra balancing, wordt specifieker op de chakra’s gewerkt. In feite bevat je lichaam oneindig veel chakra’s, maar er zijn volgens de oude systemen een aantal mogelijke specifiekere plaatsen waar de “hoofdchakra’s” zich bevinden. Ze vormen in hun natuurlijke staat een soort van draaiende schijven en als ze “op de juiste snelheid” draaien kan de energie er vlot passeren. In een chakra balancing wordt aandacht gegeven aan de voor u belangrijke thema’s en hun effect op de specifieke chakra’s die daardoor beïnvloedt worden. 
 
@@ -47,7 +47,7 @@ In een drukpunt massage wordt specifieker op meridianen gewerkt dan bij andere v
 
 <h1 id="KristalBehandeling"> Kristal behandeling </h1>
 
-Een Kristal behandeling kan deels worden vergeleken met overige methoden, zoals acupressuur, chakra balancing of aura balancing. Ze is evenwel meer intens gezien de opgewekte energie via laser kristallen gezuiverd en geconcentreerd wordt aangeboden. Hierdoor kan op speficieke punten véél dieper in het energetisch systeem worden gewerkt. Ook bij een kristal behandeling kan worden gefocussed op specifieke meridianen, chakra’s en het aura. Een kristal behandeling kan worden gecombineerd met overige vormen van massage. 
+Een Kristal behandeling kan deels worden vergeleken met overige methoden, zoals acupressuur, chakra balancing of aura balancing. Ze is evenwel meer intens gezien de opgewekte energie via laser kristallen gezuiverd en geconcentreerd wordt aangeboden. Hierdoor kan op specifieke punten véél dieper in het energetisch systeem worden gewerkt. Ook bij een kristal behandeling kan worden gefocust op specifieke meridianen, chakra’s en het aura. Een kristal behandeling kan worden gecombineerd met overige vormen van massage. 
 
 
 <h1 id="ZweedseMassage"> Zweedse (sport) massage</h1>

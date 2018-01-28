@@ -6,55 +6,55 @@ ref: energetic
 ---
 # Energetic treatment 
 
-In een energetische behandeling zal prana opgewekt worden om het door u gewenste thema te benaderen met een besproken behandeling op maat. Via de opgewekte prana kunnen we op verscheidene manieren gaan werken. 
+In an energetic treatment prana will be generated to approach a theme you wish to address with a customised and discussed treatment. With the generated prana, we can work in various ways.  
 
-De mogelijke methodes zijn: 
+Possible methods: 
 
-* <a href="#PranaActivaties">Prana activaties</a>  
-* <a href="#ChakraAuraBalancing">Chakra- en aura Balancing </a>  
-* <a href="#DrukpuntMassage">Drukpunt massage </a> 
-* <a href="#KristalBehandeling">Kristal behandeling </a>
-* <a href="#ZweedseMassage">Zweedse (sport) massage</a>
-* <a href="#EnergetischeZuivering">Energetische Zuivering</a>
-
-
-<h1 id="PranaActivaties"> Prana activaties </h1>
-
-Door het activeren van prana worden energie banen gezuiverd en kan je leren connecteren met je eigen energie systeem.  Zoals al eerder aangehaald is dit zoals het activeren van de eigen spirituele motor. 
+* <a href="#PranaActivaties">Prana activation</a>  
+* <a href="#ChakraAuraBalancing">Chakra- and aura Balancing </a>  
+* <a href="#DrukpuntMassage">pressure point massage (acupressure)  </a> 
+* <a href="#KristalBehandeling">crystal healing </a>
+* <a href="#ZweedseMassage">Swedish (sports) massage</a>
+* <a href="#EnergetischeZuivering">Energetic cleansing</a>
 
 
-Prana activaties zijn mogelijk op verschillende wijzen:
+<h1 id="PranaActivaties"> Prana activation </h1>
 
-* Gebaseerd op Tibetaanse tantra massage en Japanse drukpunt massage
-* Kristal behandeling aangepast op prana activatie als thema
-* Ademwerk, met of zonder aanvullende (drukpunt) massage
-* Overige niet door Re-Source aangeboden methodes (vraag vrijblijvend meer info)
+Once prana is activated, energy channels are cleansed and one is able to connect to the own energy system. As indicated before on this website (section tantra), this is done by activating the own “spiritual motor”.  
 
 
-In feite wordt bij alle aangeboden massage vormen prana opgwekt. In een prana activatie wordt evenwel veel actiever en dieper gewerkt aan het bewust wakker maken van je energie terwijl bij overige massage vormen de energie gewoon zijn eigen weg mag volgen. Dit uit zich in een langer durende en veel intensere massage tov de overige vormen. 
+Prana activations are possible in various ways:
+
+* Based on Tibetan tantra massage and Japanese pressure point massage
+* Crystal healing adapted to prana activation as theme
+* Breathe work, with or without additional (pressure point) massage 
+* Other methods not offered by Re-Source (feel free to ask more info)
 
 
-<h1 id="ChakraAuraBalancing"> Chakra- en aura Balancing </h1>
-
-Je aura is een elektromagnetisch veld dat wordt gevormd door de energieën die in je lichaam stromen. Dit veld kan bepaalde verstoringen krijgen door andere elektromagnetische invloeden zoals wat we eten, drinken, stress, emoties, electriciteit, gsm’s, en andere zaken. In een aura balancing of chakra balancing worden je velden opgeladen, zodat je aura terug zijn meer natuurlijke staat kan aannemen en er van binnenuit weer energie stroomt om je eigen helingsproces te gaan ondersteunen. 
-
-In een chakra balancing, wordt specifieker op de chakra’s gewerkt. In feite bevat je lichaam oneindig veel chakra’s, maar er zijn volgens de oude systemen een aantal mogelijke specifiekere plaatsen waar de “hoofdchakra’s” zich bevinden. Ze vormen in hun natuurlijke staat een soort van draaiende schijven en als ze “op de juiste snelheid” draaien kan de energie er vlot passeren. In een chakra balancing wordt aandacht gegeven aan de voor u belangrijke thema’s en hun effect op de specifieke chakra’s die daardoor beïnvloedt worden. 
-
-<h1 id="DrukpuntMassage"> Drukpunt massage </h1>
-
-In een drukpunt massage wordt specifieker op meridianen gewerkt dan bij andere vormen van massage. Hoewel in elke massage vorm wel op meridianen wordt gewerkt, volgen we in een drukpunt massage de hoofdmeridiaan systemen volgens Oosterse vorm. Via batterij punten en meridiaan punten, worden volgens de Oosterse leer  via drukpunt massage de organen gevoed en de systemen onderling gebalanceerd waardoor onze immuniteit verhoogd wordt en we zelf makkelijker terug recupereren.      
+In fact, prana is generated in all massage forms. Nevertheless, in specifically chosen prana activation we will work a lot more profound and conscious towards waking up the energy, while in other massage sessions the energy is free to flow where it is needed. This will manifest in a much longer, more intense massage then the other treatments.  
 
 
-<h1 id="KristalBehandeling"> Kristal behandeling </h1>
+<h1 id="ChakraAuraBalancing"> Chakra- and aura Balancing </h1>
 
-Een Kristal behandeling kan deels worden vergeleken met overige methoden, zoals acupressuur, chakra balancing of aura balancing. Ze is evenwel meer intens gezien de opgewekte energie via laser kristallen gezuiverd en geconcentreerd wordt aangeboden. Hierdoor kan op speficieke punten véél dieper in het energetisch systeem worden gewerkt. Ook bij een kristal behandeling kan worden gefocussed op specifieke meridianen, chakra’s en het aura. Een kristal behandeling kan worden gecombineerd met overige vormen van massage. 
+The aura is an electromagnetic field that is shaped by energies running through the body. This field can be disrupted by other electromagnetic influences, such as what we eat, drink, stress, emotions, electricity, cell phones, and many other influential factors. In an aura balancing or chakra balancing these fields will be charged with prana, and create space for your aura to find its natural state so more energy can flow freely through them again and support your healing process. 
+
+In a chakra balancing, more focused attention will be put into charging the chakras. In fact the body has an infinite number of chakras, but according to ancient systems there are some specific locations where the “main chakras” reside. In their natural state, one could see them as turning discs and when they turn around at their normal pace, the energy is free to pass through them. In a chakra balancing specific attention is given to themes that are important to you and their impact on the specific chakras that are influenced by it. 
+
+<h1 id="DrukpuntMassage"> Pressure point massage </h1>
+
+In a pressure point massage the meridian system is approached by specific pressure points. However in any massage form we work on certain meridians, we follow in pressure point massage the main meridian system according to the Eastern methodology. According to Eastern methodology, the organs and the different meridian systems are nourished and balanced through specific battery points and meridian points. As a consequence, this leads to a higher immunity and increased ability to recover.     
 
 
-<h1 id="ZweedseMassage"> Zweedse (sport) massage</h1>
+<h1 id="KristalBehandeling"> Crystal Healing </h1>
 
-Een ontspanningsmassage kan zowel lichamelijk als geestelijk werken voor het behoud van een goede gezondheid. Het doel is om los te komen van de dagelijkse stress in geest en lichaam zodat het lichaam weer ervaart hoe het aanvoelt om ontspannen te zijn. U kunt een deelgebied van het lichaam laten masseren, zoals: rug, nek, schouders of hoofd. De massage wordt uitgevoerd met massageolie op de huid. Het verschil tussen een zweedse massage en een sport massage is het tempo waarin deze wordt uitgevoerd. 
+A crystal healing can be compared to previously explained methods such as acupressure, chakra balancing or aura balancing. Nevertheless it is a lot more intense because the generated energy (prana) is purified and focused through laser crystals. As a result, it facilitates a more profound penetration of the energy system at specific points. Similarly to above mentioned treatments, in a crystal healing we can focus on specific meridians, chakras and the aura. A crystal healing can be combined with other forms of massage.  
 
 
-<h1 id="EnergetischeZuivering">Energetische Zuivering</h1>
+<h1 id="ZweedseMassage"> Swedish (sports) massage </h1>
 
-Een energetische zuivering kan worden gedaan om verscheidene redenen. Vaak voelen we energieën in huis die vreemd zijn, of zijn er objecten die een zware energie meedragen. Via een energetische zuivering wordt er plaats gegeven aan het nieuwe doordat de energie op een bepaalde plaats of van een voorwerp “gereset” wordt. Oude zaken kunnen dan losgelaten worden en plaats maken voor nieuwe. 
+A relaxation massage can contribute to maintaining health both physically as mentally. The goal is to release daily stress in body and mind so the body can experience true relaxation again. It is possible to have only a part of the body treated such as the back, neck, head, shoulders, legs or arms. The massage is performed with massage oil on the bare skin. The difference between a Swedish and sports massage is the tempo of the strokes.
+
+
+<h1 id="EnergetischeZuivering">Energetic cleansing</h1>
+
+An energetic cleansing can be done for various reasons. Often we feel strange energies in our homes, or some objects can carry heavy energies. An energetic cleanse is intended to create space for new energies by resetting the energy in a certain place or object. Old attachments can be released and make room for new energies. This is also possible on “company level” but that is out of the scope of Re-Source. Cleansings are offered in customised form and decided in agreement with the client. The scope of Re-Source is limite to cleansing houses and objects. 

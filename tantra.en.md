@@ -5,95 +5,93 @@ lang: en
 ref: tantra
 ---
 
-# Tantra is “de liefde bedrijven” EN
+# Tantra is “making love” 
 
 
-... in de ruimste zin van het woord. Niet enkel de fysieke vorm van de liefde bedrijven. Hoewel tantra vaak wordt geassocieerd met seks, is dit slechts een -niet onbelangrijk- klein deelaspect van tantra. Men zou kunnen stellen dat tantra de liefde bedrijven met jezelf, anderen en het leven is, zei het in de originele niet-fysieke vorm.
+...in the widest sense of the word. Not only the physical form of making love. Despite the fact that tantra is often associated with sexuality, it is only a – not unimportant- small part of tantra. One could say that tantra is making love to yourself, others, and to life itself, be it in the original, non-physical form.
 
-Stromingen als Taoistische tantra, Kum Nye (Tibetaanse tantra), Ancient Tantra Kriya Yoga, Kaula, en vele andere stromingen hebben technieken om de spirituele "motor", die we in ons hebben, (terug) aan te zetten. Hierdoor ontstaat connectie met onze ziel, andere zielen en het universum.  Het wordt door Meesters ook wel eens "online" genoemd, waardoor we de informatie die we nodig  hebben kunnen "downloaden" liefde kunnen vermenigvuldigen in onszelf, onze energie centra opladen en onze seksualiteit energetisch en fysiek herstellen of kunnen verdiepen.
-
-
-### Er zijn enorm veel opvattingen 
-
-...over wat tantra werkelijk betekent en waartoe het diende, en wat wel of niet juist is. Het is evenwel moeilijk om te beweren dat ons bekend is wat tantra werkelijk is. De realiteit is dat vele manuscripten van vandaag en hoe we ze vandaag toepassen, reeds interpretaties zijn van wat ooit bedoeld is. Verder zijn veruit de grootste hoeveelheid van de oude manuscripten verloren gegaan. Pas zodra het idee van wat juist is en wat niet vanuit het “zelf” wegvalt, zijn we werkelijk in staat te bevatten waarom we het deden. In werkelijkheid doorlopen we allemaal fasen en bij elke fase staan we anders in wat het voor ons betekent. 
+Sources such as Taoistic tantra, Kum Nye (Tibetan tantra), Ancient Tantra Kriya Yoga, Kaula, and many other sources contain techniques to turn on (again) the spiritual “motor” we have inside ourselves. As a consequence, we can connect to our soul, other souls and the universe. Masters sometimes call this state “online” because in this state we become able to “download” the information we need, and we can multiply love within ourselves, load our energy centers and restore or deepen our sexuality energetically and physically.
 
 
-### Hoe vind  je je weg dan 
+### There are many perceptions 
 
-...in tantra? Het antwoord daarin is dat ieder dat voor zichzelf kan en mag ontdekken. Ongeacht de intentie waarmee je begint aan dit pad, wordt het vanzelf meer zodra je daar klaar voor bent. Het is prima dat je tantrische technieken gebruikt gewoon om betere seks in je eigen relatie(s) te ervaren, maar als je het echt wil kan het veel meer worden dan dat. 
-
-
-### Het is belangrijk 
-
-...om hierin je eigen grenzen en behoeften op voorhand kritisch te bekijken en duidelijk te plaatsen en verder te accepteren dat anderen dit voor zichzelf anders doen. Mensen verleggen van nature hun eigen grenzen zodra ze daar aan toe zijn en hebben hun persoonlijke behoeften. In de door Re-Source georganiseerde events of behandelingen is er een duidelijke grens, en is het niet de bedoeling dat er seksueel contact ontstaat tussen de deelnemers en/of begeleiders. In een duidelijk gedefinieerd en ethisch verantwoord kader is het immers beter mogelijk om de juiste space te houden voor transformatie. 
+...on what tantra really means and to what it is intended, and what is right or wrong. Nevertheless it is difficult to claim that we truly know what tantra really is. In reality, many manuscripts of today, and the way we apply them, are interpretations of what was once meant. Furthermore, most of the old manuscripts are lost forever. One could say that not until the idea of what is right and wrong disappears, we are truly capable of understanding why we are following a tantric path. In reality, we all go through different phases, and in any different phase we feel different in what it means to us and why we do it. 
 
 
-Mogelijkheden
+### So how do we find our way 
 
-* <a href="#TantrischeMassage">Tantrische massage </a>  
-* <a href="#TantrischeYoga">Tantrische yoga </a>   
-* <a href="#LesgevenTantraMassage">Lesgeven in tantra of tantrische massage</a>   
-* <a href="coaching.html">Coaching</a>   
-* Combinaties van de bovenstaande items  
+...in tantra? The answer on that is that everybody can and may discover that for themselves. Independent of the intention in which one starts, it will naturally become more as soon as one is ready for it. It is just fine that tantric techniques are used just to experience better sex within the own relationship(s), but if one truly wants, it could become so much more than that. 
 
 
+### It is important
 
-<h1 id="TantrischeMassage"> Tantrische massage </h1>
-
-Goed! U bent nieuwsgierig naar een tantrische massage? Er zijn een aantal zaken van belang voor we verder ingaan op wat dat voor u kan betekenen. Indien u direct wil kijken welke vormen mogelijk zijn, kan u vrijblijvend verder scrollen. 
-
-
-### De eerste stap is een intake gesprek 
-
-...om te zien of dit inderdaad een goede werkwijze kan zijn. Er zal worden gepraat over uw grenzen, wensen, motivatie, contekst, medisch verleden en waaraan u graag wil werken. Afhankelijk uw behoeften en de contekst, zal in samenspraak beslist worden of dit inderdaad een constructieve werkwijze is. 
-
-Tantrische massages worden enkel toegestaan ingeval u al klant bent en wij samen hebben kunnen bekijken of het een verantwoorde werkzijze is. Hierop worden geen uitzonderingen gemaakt.
+...to take the time to develop a profound insight in the own boundaries and needs and further more accept that others’ will have their own specific boundaries and needs. People will naturally work on their own boundaries when they are ready for it and also have their personal needs. In the events or treatments organized by Re-Source, there is a clear boundary, and it is not the intention to engage any physical sexual contact between participants and/or facilitators. In a clearly defined and ethically responsible frame, it is easier to hold the space for participants towards their personal transformation. 
 
 
-### Er kan worden gewerkt met of zonder seksuele energie
+Possibilities
 
-...op maat van de grenzen en wensen van de persoon die het ondergaat. De in een tantrische massage opgewekte (al of niet seksuele) energie heeft als doel om te werken aan voor jou belangrijke thema’s in het leven en de energie in je lichaam vrij te maken.  Met deze energie kan dan op verschillende wijzen verder gewerkt worden. 
-
-De eventueel opgewekte seksuele energie zal door het lichaam worden gestuurd en niet dienen ter bevrediging van verlangens maar om de gemasseerde te begeleiden in een helingsproces of aan te leren hoe de energie kan worden gecultiveerd.  Het is niet de bedoeling dat er intiem contact is tussen de masseur en de gemasseerde. 
-
-Om aan te leren seksuele energie anders te gebruiken, is een prana activatie belangrijk. Prana energie kan los van seksuele energie worden opgewekt. Het is ook mogelijk om via seksuele energie de prana te activeren maar dit is moeilijker dan beginnen bij prana omdat seksuele energie iets heel krachtigs is en dus vaak moeilijk(er) te beheersen. 
-
-
-### In deze massages zal de masseur volledig aangekleed zijn
-
-...en zich houden aan samen besproken grenzen en een dynamisch ethisch kader met duidelijke, veilige grenzen aangepast aan uw behoeften en ervaringen. Hoewel bij een tantrische massage de lingam of yoni (mannelijke of vrouwelijke geslachtsdelen) in bepaalde gevallen zal worden gemasseerd, is het doel anders dan bij een erotische massage. Er zal niet worden ingegaan op bevrediging van seksuele verlangens, noch van de masseur, noch van de gemasseerde. 
+* <a href="#TantrischeMassage">Tantric massage</a>  
+* <a href="#TantrischeYoga">Tantric yoga </a>   
+* <a href="#LesgevenTantraMassage">Teaching tantra or tantric massage</a>   
+* <a href="coaching.en.html">Coaching</a>   
+* Combination of the above  
 
 
-### De mogelijke methodes zijn: 
 
-* Prana activatie (oa gebaseerd Tibetaanse tantra en Japanse drukpunt massage principes)
-* Micro Cosmic orbit activatie massage (oa gebaseerd op Taoistische cultivatie technieken)
-* Full body pranische energie cultivatie (oa gebaseerd op Kaula, de-armoring en neo-tantrische principes)
-* Welness massage gebaseerd op Neo-tantrische of Tibetaans-tantrische principes
+<h1 id="TantrischeMassage"> Tantric massage </h1>
+
+Ok! So you are curious for a tantric massage? There are some important topics before we further discuss what it could mean to you. If you wish to consult the possibilities, feel free to scroll down first. 
+ 
+
+### The first step is an intake interview 
+
+ ...to check if this could indeed be the appropriate method to proceed. Subjects that will be discussed are boundaries, wishes, motivation, context, medical past and issues you’d wish to work on. Depending on your personal needs and context, we will decide together whether or not this is indeed the most constructive approach. 
+
+Tantric massages are only allowed to those who are already a known client in case we decided together it is the most responsible way to approach this specific topic. No exceptions will be made to this approach.
+
+
+### It is possible to give a tantric massage with or without sexual energy
+
+...customized to the boundaries and wishes of the undergoing person. The (sexual and/or pranic) energy generated during a tantric session is intended to work on themes that are important to your personal life and to release this specific energy in your body. With this energy, we can work in various ways. 
+
+In case we work with sexual energy, it will be channeled through the body and not serve any fulfillment of sexual desire. The sexual energy will be used to guide the massaged person in a process of healing or to teach this person to learn how this energy could be cultivated instead. Under no circumstances intimate contact between masseur and massaged will be allowed. 
+
+To learn how to use sexual energy in a different way, prana activation is required. Prana energy can be generated separately from sexual energy. It is also possible to activate prana through sexual energy, but this is a lot more difficult because of the power of sexual energy and as a consequence a lot more difficult to handle and control. 
+
+
+### In a tantric massage, the masseur will be fully clothed
+
+...and stick to mutually discussed and agreed boundaries in a dynamic ethics frame with clear, safe limits, adapted to your needs and experiences. Despite the fact that in a tantric massage the lingam or yoni (male or female sexual organs) will be massaged in certain cases, the goal is different than in an erotic massage. A tantric massage will not address the satisfaction of sexual desires, neither of the masseur nor of the massaged. 
+
+
+### Possible methods: 
+
+* Prana activation (based on Tibetan tantra and Japanese pressure point massage principles)
+* Micro Cosmic orbit activation massage (based on Taoistic cultivation techniques)
+* Full body pranic energy cultivation (based on Kaula, de-armoring en neo-tantric principles)
+* Welness massage based on Neo-tantric or Tibetan-tantric principles
 * Op maat besproken tantrische massage (per thema)
 
 
 
+<h1 id="TantrischeYoga"> Tantric yoga </h1>
 
-<h1 id="TantrischeYoga"> Tantrische yoga </h1>
-
-...is een praktijk waarin we yoga poses (asana’s), ademhalingstechnieken (pranayama’s) en het opspannen van bepaalde spiergroepen (bandha’s) combineren om energie rond te sturen. Dit geeft onmiddelijk meer energie (prana) in je lichaam. Deze energie kunnen we dan gaan gebruiken om jezelf te leren openen en helen. Gaandeweg zullen tools zoals intentie, bewust aanraken, actieve meditatie, rituelen, geluid (oa mantra’s), stretchings, tijdelijk uitschakelen van zintuigen, dristha (oogcontact), dristhi (focus punten) enz. worden gebruikt om specifieke smaken en intenties te voorzien in iedere sessie waardoor niet één sessie dezelfde zal zijn als de vorige. 
-
-
-### Met tantrische yoga kan je leren hoe: 
-
-...je thuiskomt bij jezelf - je je energie (prana) kan activeren en controleren – je drie lichamen (fysiek, energetisch en spiritueel) kan versterken en ervaren – je chakra’s kan openen – je lichaam en geest van gifstoffen kan reinigen – je je eigen authentieke seksualiteit kan (her-)ontdekken – je door blokkades kan breken – je jezelf kan liefhebben – je kan connecteren met je innerlijke wijsheid, het universum, je ziel en andere zielen – je je libido kan versterken – je je siddhi’s (tantrische gaven) kan (her-)ontdekken – je zielspad kan ontdekken (empowerment) en nog vele andere aspecten.
+...is a tantra yoga practice in which we combine yoga postures (asanas), breathing techniques (pranayamas) and tightening certain muscle groups (bandhas) to get the energy moving. This gives you instant energy (prana) in your body. This energy can be used to open up yourself and heal yourself. On the way tools such as intention, conscious touch, active meditations, rituals, sounds, removing senses, dristha (eye contact), dristhi (focus points) etc. can be used to add specific flavours and a specific intention for each session, which makes not one session ever the same as the one before.  
 
 
-### Tantrische yoga is “speciaal” omdat:
+### With the tantric yoga system you can learn to:
 
-...het relatief snel leidt tot meer zelf-bekrachtiging. Je kan snel en gemakkelijk verbinden met jezelf en anderen, zelfs onbekenden, en deze technieken kunnen ook erg vlot geïntegreerd worden in je persoonlijke yoga praktijk en seksualiteit. Bovendien leert het ons om connectie te leggen met “pure source energy” en “pure source knowledge”. Dit leidt tot meer mogelijkheden om in liefde met alles te verbinden. Je kan deze technieken toepassen op elk thema in je leven. 
+…come home to yourself - activate and control your energy - experience and magnify your three bodies (physical, causal, spiritual) - open your chakras – cleanse your body and mind from toxins - (re- ) discover your own authentic sexuality - break through blockades - love yourself - connect with your inner wisdom, the universe, your soul and other souls – enhance your libido and many other aspects
+
+
+### Tantric yoga is special 
+
+…because this practice leads to self-empowerment relatively fast.  You can quickly and easily connect with your pelvic area and the energy stored in its area, and these techniques can be easily integrated in your basic yoga practice and sexuality. Furthermore it teaches us to connect with the pure source energy and knowledge. This leads to more possibilities to connect in love to everything. These tantric techniques can be applied to any theme in your life.  
 
 
 
-<h1 id="LesgevenTantraMassage"> Lesgeven in tantra of tantrische massage </h1>
+<h1 id="LesgevenTantraMassage">Teaching tantra or tantric massage </h1>
 
-Er zullen door re-source tantra zeer gevarieerde lessen (meditatie, sacred sexuality, ritualisme, pranayama, tantric sexuality, ...) en lessen in tantrische massage gegeven worden alsook workshops worden georganiseerd. Er zijn meerdere thema’s mogelijk, van koppelwerk (emotioneel, tantrische seksualiteit), seksueel educatief, meditatie, tantrische yoga voor koppels of voor groepen tot zeer spiritueel en introspectief. Het aanbod kan variëren naargelang de behoeftes van het publiek. Speciale lessen kunnen aangevraagd worden, indien er voldoende mensen zijn die over een bepaald thema les willen, zal hier een les voor worden georganiseerd.  
+A wide range of tantra- or tantric massage workshops will be facilitated by Re-Source- (such as meditation, sacred sexuality, ritualism, pranayama, tantric sexuality, …). Various themes are possible to explore, such as couple work (emotional, tantric sexuality), sexual educative, meditation, tantric yoga for couples, groups, to very spiritual and introspective. What is offered by Re-Source can vary depending on the needs of the public. Special classes can be requested, in case a sufficient amount of participants wishes to have certain themes addressed a workshop on topic will be organised.  
 
-Bij lessen in tantrische yoga, tantrische massage of tantrische seksualiteit zal de lesgever altijd een vooraf besproken eigen partner hebben waarmee gewerkt wordt. Op deze wijze ontstaat geen situatie waarin mensen zich onveilig voelen en geremd zijn om zich te ontplooien met of zonder hun zelfgekozen partner. 
-   
+In events or workshops organized by Re-Source, the facilitator will work with an own previously appointed partner in specifically explicit exercises. This way, a situation in which people feel insecure and/or inhibited to expand themselves will be avoided.  

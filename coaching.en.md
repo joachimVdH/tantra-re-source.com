@@ -4,30 +4,30 @@ title: Coaching
 lang: en
 ref: coaching
 ---
-# Coaching EN
+# Coaching
 
 
-* <a href="#IntimiteitsRelationeleCoaching">Intimiteits- en relationele coaching</a>  
-* <a href="#ManagementBedrijfsCoaching">Management-en bedrijfs coaching</a>  
+* <a href="#IntimiteitsRelationeleCoaching">Intimacy- and relational coaching </a>  
+* <a href="#ManagementBedrijfsCoaching">Management- and company coaching</a>  
 
 
 
-<h1 id="IntimiteitsRelationeleCoaching"> Intimiteits- en relationele coaching </h1>
+<h1 id="IntimiteitsRelationeleCoaching"> Intimacy- and relational coaching  </h1>
 
-Intimiteits- of relationele coaching heeft als doel het groeiproces tussen koppels te begeleiden en zo toe te laten (nog) meer liefde en bewustzijn in de connectie te brengen. Met tools als verbindende communicatie, tantrische yoga, tantrische communicatie, meditatie, cosmic orbit werk en ademwerk kan de aanzet gegeven worden tot een grotere intimiteit. Verder is het mogelijk een verdieping van de seksualiteit te verwezenlijken met de door Re-Source aangeboden oefeningen. 
+The purpose of intimacy- and relational coaching is to guide the process of growth between couples and allow (more) love and consciousness in the connection. Tools such as engaged communication, tantric yoga, tantric communication, meditation, cosmic orbit work, breath work and more are applied to create a solid base to a greater intimacy. Furthermore it is possible to deepen sexuality with the tools offered by Re-Source. 
 
-De diepste intimiteit (ook die met onszelf) is diegene die ontstaat als alle angsten zijn weggevallen om ons volledig te laten zien aan de ander in volle kwestbaarheid, en waarbij we de space kunnen houden naar elkaar toe voor dit proces. Het betekent dat we anders leren omgaan met “wat is” zodat de hindernissen veranderen in tools tot transformatie. Vanuit volle acceptatie, in observatie van de eigen emoties maar zonder ze te volgen, kan liefde vloeien en de tool worden tot transformatie. 
+The deepest intimacy (including with ourselves) is that which comes into existence when all fears to completely show ourselves in full vulnerability fall away, and we can hold the required space to one another for this process. It also means that we learn to handle “what is” differently and as a consequence obstacles become tools to transformation. From the space of full acceptance, in observation of the own emotional states but without following them, love can flow freely and become the tool towards transformation. 
 
 
-<h1 id="ManagementBedrijfsCoaching"> Management- en bedrijfs coaching </h1>
+<h1 id="ManagementBedrijfsCoaching"> Management- and company coaching </h1>
 
-### Vraag voor uw bedrijf een gratis demo. 
+### Ask for a free demo for your company 
 
-#### Een Ancient Tantra Kriya Yoga demo sessie van +-2 uur kan gratis worden gegeven om u te tonen hoe dit werkt vooraleer u beslist of u coaching volgens deze methodiek interessant vindt.
+#### An Ancient Tantra Kriya Yoga demo session of +-2 hours could be given for free to showcase how it works before you decide whether or not this coaching technique is interesting to your company.
 
-...ofwel leiderschap vanuit connectie met het hart. Managements coaching heeft als doel het groeiproces tussen de manager(s), diens medewerkers en “het bedrijf” te begeleiden en zo toe te laten te leiden vanuit liefde en kracht. Met tools als verbindende communicatie, tantrische yoga, tantrische communicatie, meditatie, cosmic orbit werk en ademwerk kan de aanzet gegeven worden tot een (meer) harts gecenterde aanpak. Op deze wijze kan het bedrijf meer bewust in de samenleving gaan werken en connecteren met de werkelijke noden van zowel de medewerkers als de maatschappij. 
+In this coaching method we strive towards leadership from the connection with the heart. The goal of management coaching is to facilitate the process of growth between manager(s), employees, and “the company” and as a consequence allow leadership from love and strengths. With tools such as engaged communication, tantric yoga, tantric communication, meditation, cosmic orbit work and breathe work, the base can be built to a more heart centered approach. Consequently, the company can operate more conscious to society and connect to the true needs of both employees and society.  
 
-Ademwerk en tantrische yoga dragen bij aan algeheel welzijn en centering, en kunnen een zeer krachtige tool zijn om voor belangrijke beslissingen aan te wenden om het systeem te zuiveren van stress en beperkingen van de mind. Doordat tantrische yoga technieken bevat die in staat zijn op slechts enkele minuten de gedachten stroom te kalmeren en emoties te centeren, is het een unieke Re-Source om uit te putten gezien het tijdskader waarin management vaak dient te gebeuren.
+Breathe work and tantric yoga contribute to the common welfare and centering, and can be a very powerful tool to make important decisions as they clear the system from stress and limitations of the mind. Because of the fact that applying tantric yoga principles has the potential to calm down the flow of thoughts in only minutes, it is a unique Re-Source to apply because of the time frame managers are usually confronted with.
 
-Verder kan tantrische yoga perfect passen in groepswerk onder collega’s, met of zonder de leiding gevenden afhankelijk de thema’s. Het is een unieke tool om in te passen in team building activiteiten doordat deze technieken, zoals in “tantrische yoga” vermeld, enorm snel leiden tot een energetische connectie tussen de mensen onderling, ongeacht de emoties en remmingen omdat de conflict energieën non –verbaal worden benaderd. Het betekent dat we anders leren omgaan met “wat is” zodat ook hier de hindernissen veranderen in tools tot transformatie. Vanuit volle (zelf)acceptatie, in observatie van de eigen emoties maar zonder ze te volgen, kan liefde vloeien en de tool worden tot transformatie. Dat geeft dan weer plaats om in de verbale fase vanuit het authentieke zijn aan te geven wat de challenges zijn tot een verbonden samenwerking. 
+Furthermore tantric yoga suits group work between colleagues perfectly, with or without executives, depending on the themes worked on. It is a unique tool to apply in team building activities because as mentioned in the section “tantric yoga” it can lead to a connection between people very fast, independent of emotions and inhibitions because of the fact that conflict energies are approached in a non-verbal way. It includes that we learn to handle “what is” differently. This way, obstacles become tools to transformation. From the space of (self-)acceptance, observing the own emotions without following them, love can flow and form the base to transformation. This creates space to indicate during a verbal phase what the challenges are underway to a connected cooperation. 
 
