@@ -24,27 +24,31 @@ Deze prana zal worden gecultiveerd en gemengd met energie die van de root chakra
 
 ### Inhoud
 
-- Weekend 1 (7-8/4)  &  Weekend 5 (11-12/8)  
+- Weekend 1
+{{/*  (7-8/4)  &  Weekend 5 (11-12/8)   */}}
 **Tantrische tools tot transformatie**  
 Basis tot fysieke technieken die van adem prana maken  -  verschil tussen prana en seksuele energie en hoe ermee werken  -  proces werk & betekenis
 
-- Weekend 2 (2-13/5)  &  Weekend 6 (8-9/9)  
+- Weekend 2
+{{/* (2-13/5)  &  Weekend 6 (8-9/9)   */}}
 **Tantrische meditatie vormen**  
 Basis tot efficiënt mediteren  -  introspectie  -  soorten prana  -  meridiaan– en chakrasysteem  -  connectie  -  micro cosmic orbit basis
 
-- Weekend 3 (23-24/6)  &  weekend 7 (29-30/9)  
+- Weekend 3
+{{/* (23-24/6)  &  weekend 7 (29-30/9)   */}}
 **Tantrische rituelen en devotie**  
 Basis tot heilig handelen  -  Consent, grenzen, empathie en kwetsbaarheid  -  Connectie, prana & tantrische sadhana  -  Wat maakt een ritueel heilig en wat is devotie
 
-- Weekend 4 (14-15/7)  &  Weekend 8 (20-21/10)  
+- Weekend 4
+{{/* (14-15/7)  &  Weekend 8 (20-21/10)   */}}
 **Heilige sexualiteit**  
 Basis tot een andere beleving van seksualiteit (géén fysieke seksualiteit tussen deelnemers) - continentie technieken  -  orbit & pranayama als cultivatie technieken
 
-#### Prijzen
+{{/* #### Prijzen
 
 Per dag : € 85  
 Per weekend : € 160  
-Per 8 weekends : € 1250  
+Per 8 weekends : € 1250 */}}  
 
 ### Praktisch
 
@@ -52,7 +56,7 @@ Per 8 weekends : € 1250
 
 Meditatiekussen, yoga mat, dekentje, losse kledij, handdoek, belangrijk object, lunch pakket en voldoende water (Er is een fornuis, ijskast en thermossen, bestek,...)
 
-#### Locatie
+{{/* #### Locatie  
 
 De stal - [destalranst.be](https://www.destalranst.be/)  
 Laarstraat 24  -  2520 Ranst
@@ -74,7 +78,7 @@ Deel II: 
 - 11-12 augustus  
 - 8-9 september  
 - 29-30 september  
-- 20-21 oktober  
+- 20-21 oktober */}}
 
 #### Dagschema
 

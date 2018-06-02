@@ -24,27 +24,31 @@ This prana will be cultivated and mixed with the energy coming from the root cha
 
 ### Contents
 
-- Weekend 1 (7-8/4)  &  Weekend 5 (11-12/8)  
+- Weekend 1 
+{{/* (7-8/4)  &  Weekend 5 (11-12/8)   */}}
 **Tantric tools for transformation**  
 Basis to physical techniques that make prana out of breath  - difference between sexual energy and prana en how to work with it  -  process work and significance
 
-- Weekend 2 (2-13/5)  &  Weekend 6 (8-9/9)  
+- Weekend 2 
+{{/* (2-13/5)  &  Weekend 6 (8-9/9)   */}}
 **Tantric meditations**  
 Basis to efficient medition  -  introspection  -  prana types  -  meridian– and chakrasystem  -  micro cosmic orbit basis
 
-- Weekend 3 (23-24/6)  &  weekend 7 (29-30/9)  
+- Weekend 3 
+{{/* (23-24/6)  &  weekend 7 (29-30/9)   */}}
 **Tantric rituals and devotion**  
 Basis to sacred actions  -  Consent, boundaries, empathy and vulnerability  -  connection, prana & tantric sadhana  -  what makes a ritual sacred and what is devotion
 
-- Weekend 4 (14-15/7)  &  Weekend 8 (20-21/10)  
+- Weekend 4 
+{{/* (14-15/7)  &  Weekend 8 (20-21/10)   */}}
 **Sacred sexuality**  
 Basis to another way of experiencing sexuality (no physical sex with other participants)  -  continence techniques  -  orbit & pranayama as cultivation techniques
 
-#### Prijzen
+{{/* #### Prices
 
 Per day : € 85  
 Per weekend : € 160  
-Per 8 weekends : € 1250  
+Per 8 weekends : € 1250   */}}
 
 ### Practical
 
@@ -52,7 +56,7 @@ Per 8 weekends : € 1250
 
 Meditation pillow, yoga mat, blanket, loose outfit, towel, important object, lunch package and sufficient water. (There is a stove, refrigerator, thermos cans, cutlery, etc.)
 
-#### Location
+{{/* #### Location
 
 De stal - [destalranst.be](https://www.destalranst.be/)  
 Laarstraat 24  -  2520 Ranst
@@ -74,7 +78,7 @@ Part II: 
 - 11-12 august  
 - 8-9 september  
 - 29-30 september  
-- 20-21 october  
+- 20-21 october   */}}
 
 #### Daily schedule
 
@@ -84,4 +88,4 @@ Part II: 
 - 13h00  -  15h30 block 2  
 - 15h30  -  16h00 pause  
 - 16h00  -  18h00 block 3  
-- 18h00  -  18h45 Cleaning and sharing
+- 18h00  -  18h45 Cleaning and sharing  
