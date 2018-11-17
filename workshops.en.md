@@ -25,30 +25,30 @@ This prana will be cultivated and mixed with the energy coming from the root cha
 ### Contents
 
 - Weekend 1 
-{{/* (7-8/4)  &  Weekend 5 (11-12/8)   */}}
+{% comment %} (7-8/4)  &  Weekend 5 (11-12/8)   {% endcomment %}
 **Tantric tools for transformation**  
 Basis to physical techniques that make prana out of breath  - difference between sexual energy and prana en how to work with it  -  process work and significance
 
 - Weekend 2 
-{{/* (2-13/5)  &  Weekend 6 (8-9/9)   */}}
+{% comment %} (2-13/5)  &  Weekend 6 (8-9/9)   {% endcomment %}
 **Tantric meditations**  
 Basis to efficient medition  -  introspection  -  prana types  -  meridian– and chakrasystem  -  micro cosmic orbit basis
 
 - Weekend 3 
-{{/* (23-24/6)  &  weekend 7 (29-30/9)   */}}
+{% comment %} (23-24/6)  &  weekend 7 (29-30/9)   {% endcomment %}
 **Tantric rituals and devotion**  
 Basis to sacred actions  -  Consent, boundaries, empathy and vulnerability  -  connection, prana & tantric sadhana  -  what makes a ritual sacred and what is devotion
 
 - Weekend 4 
-{{/* (14-15/7)  &  Weekend 8 (20-21/10)   */}}
+{% comment %} (14-15/7)  &  Weekend 8 (20-21/10)   {% endcomment %}
 **Sacred sexuality**  
 Basis to another way of experiencing sexuality (no physical sex with other participants)  -  continence techniques  -  orbit & pranayama as cultivation techniques
 
-{{/* #### Prices
+{% comment %} #### Prices
 
 Per day : € 85  
 Per weekend : € 160  
-Per 8 weekends : € 1250   */}}
+Per 8 weekends : € 1250   {% endcomment %}
 
 ### Practical
 
@@ -56,7 +56,7 @@ Per 8 weekends : € 1250   */}}
 
 Meditation pillow, yoga mat, blanket, loose outfit, towel, important object, lunch package and sufficient water. (There is a stove, refrigerator, thermos cans, cutlery, etc.)
 
-{{/* #### Location
+{% comment %} #### Location
 
 De stal - [destalranst.be](https://www.destalranst.be/)  
 Laarstraat 24  -  2520 Ranst
@@ -78,7 +78,7 @@ Part II: 
 - 11-12 august  
 - 8-9 september  
 - 29-30 september  
-- 20-21 october   */}}
+- 20-21 october   {% endcomment %}
 
 #### Daily schedule
 
