@@ -17,4 +17,4 @@ For each hour started within a session of complementary assistance (CAM)
 
 ---
 (*) These prices are valid for privates. Pricing for companies on request.
-These prices fall within the scope of pricing determined by the occupational federation Naturopathica on the general meeting of 15 February 2017.   
+These prices fall within the scope of pricing determined by the occupational federation Naturopathica on the general meeting of 15 February 2017 and confirmed in general meeting of 21 February 2018.  

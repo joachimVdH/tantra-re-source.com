@@ -17,4 +17,4 @@ per begonnen uur binnen een sessie
 
 ---
 (*) Deze prijzen gelden voor een particulier. Overige prijzen op verzoek.  
-Deze prijzen vallen binnen de prijsvork vastgelegd door de beroepsvereniging Naturopathica op de algemene vergadering van 15 februari 2017.  
+Deze prijzen vallen binnen de prijsvork vastgelegd door de beroepsvereniging Naturopathica op de algemene vergadering van 15 februari 2017 en herbevestigd op de algemene vergadering van 21 februari 2018.
